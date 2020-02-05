@@ -22,6 +22,8 @@ Event based serverless architecture is a popular paradigm in today's tech landsc
 [Oracle Functions](https://www.youtube.com/watch?v=ZJKviWdo-Ec)
 
 
+![](screenshots/1.png)
+
 This is the architecture you will have created after completing this workshop.
 
 ## Outline:
