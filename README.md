@@ -27,13 +27,13 @@ Event based serverless architecture is a popular paradigm in today's tech landsc
 This is the architecture you will have created after completing this workshop.
 
 ## Outline:
-[Lab 100: Create Notifications Topic & Subscription](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab100.md)
+[Lab 100: Create Email Notification Topic, Subscription, and Event Rule](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab100.md)
 
 # Pre-requisites
 
-## 1. [Get an Oracle Cloud account](https://www.oracle.com/cloud/free/)
-## 2. The user you are doing this with must have proper IAM permissions 
-## 3. [Install the Oracle CLI](https://docs.cloud.oracle.com/en-us/iaas/Content/API/SDKDocs/cliinstall.htm)
+### 1. [Get an Oracle Cloud account](https://www.oracle.com/cloud/free/)
+### 2. The user you are doing this with must have proper IAM permissions 
+### 3. [Install the Oracle CLI](https://docs.cloud.oracle.com/en-us/iaas/Content/API/SDKDocs/cliinstall.htm)
 
 [Click here to begin with Lab 100](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab100.md)
 
