@@ -29,8 +29,7 @@ This is the architecture you will have created after completing this workshop.
 ## Outline:
 [Lab 100: Create Email Notification Topic, Subscription, and Event Rule](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab100.md)
 
-[Lab 200: Working with Streaming]
-(https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab200.md)
+[Lab 200: Working with Streaming](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab200.md)
 
 # Pre-requisites
 
