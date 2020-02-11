@@ -31,6 +31,8 @@ This is the architecture you will have created after completing this workshop.
 
 [Lab 200: Working with Streaming](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab200.md)
 
+[Lab 300: Getting started with functions](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab300a.md)
+
 # Pre-requisites
 
 ### 1. [Get an Oracle Cloud account](https://www.oracle.com/cloud/free/)
