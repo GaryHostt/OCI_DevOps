@@ -58,6 +58,7 @@ Navigate to developer services > functions, and create a new app.
 ## Extending functions
 
 [Deploying your hello-world function to API Gateway](https://blogs.oracle.com/developers/creating-your-first-api-gateway-in-the-oracle-cloud)
+
 [Querying an ATP database with Functions](https://blogs.oracle.com/developers/oracle-functions-connecting-to-an-atp-database-revisited)
 
 Continue to Lab 400 to see this two workshops merged.
