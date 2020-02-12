@@ -6,7 +6,7 @@ Note: this lab will assume you have properly configured the project fn CLI on yo
 
 [Getting started with functions lab - MANDATORY](https://www.oracle.com/webfolder/technetwork/tutorials/infographics/oci_faas_gettingstarted_quickview/functions_quickview_top/functions_quickview/index.html#localdevenv)
 
-You may consider the above lab as the single best place to start using functions while the rest of this page is a repo for supplemental knowledge. In [lab 302](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab302.md), we will build on the work from that lab. 
+You may consider the above lab as the single best place to start using functions while the rest of this page is a repo for supplemental knowledge. In [lab 302](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab302.md), we will build on the work from that lab. The bottom of this page in this repo has consolidated the terminal commands you will use in the above lab. 
 
 [Secondary lab](https://www.oracle.com/webfolder/technetwork/tutorials/infographics/oci_faas_gettingstarted_quickview/functions_quickview_top/functions_quickview/index_text.html)
 
