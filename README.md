@@ -33,6 +33,8 @@ This is the architecture you will have created after completing this workshop.
 
 [Lab 300: Getting started with functions](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab300a.md)
 
+[Lab 301: Getting started with API Gateway](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab301.md)
+
 # Pre-requisites
 
 ### 1. [Get an Oracle Cloud account](https://www.oracle.com/cloud/free/)
