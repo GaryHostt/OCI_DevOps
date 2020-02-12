@@ -37,6 +37,8 @@ This is the architecture you will have created after completing this workshop.
 
 [Lab 302: Calling a function via API Gateway](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab302.md)
 
+Coming soon: Ansible on OCI, Oracle Kubernetes Engine, and more!
+
 # Pre-requisites
 
 ### 1. [Get an Oracle Cloud account](https://www.oracle.com/cloud/free/)
