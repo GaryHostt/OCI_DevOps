@@ -4,7 +4,9 @@
 
 Note: this lab will assume you have properly configured the project fn CLI on your machine
 
-[Getting started with functions - lab](https://www.oracle.com/webfolder/technetwork/tutorials/infographics/oci_faas_gettingstarted_quickview/functions_quickview_top/functions_quickview/index.html#localdevenv)
+[Getting started with functions - lab - MANDATORY](https://www.oracle.com/webfolder/technetwork/tutorials/infographics/oci_faas_gettingstarted_quickview/functions_quickview_top/functions_quickview/index.html#localdevenv)
+
+Consider the above lab as the single best place to start using functions while this page is a repo for supplemental knowledge. However, in [lab 302](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab302.md) we build on this knowledge. 
 
 [Secondary lab](https://www.oracle.com/webfolder/technetwork/tutorials/infographics/oci_faas_gettingstarted_quickview/functions_quickview_top/functions_quickview/index_text.html)
 
@@ -55,6 +57,29 @@ These are the policies you will need, click here to read more about [IAM policie
 Navigate to developer services > functions, and create a new app. 
 ![](300screenshots/8.png)
 
+## Useful command line commands for reference
+
+These are performed in order and will setup your terminal to have fn and be connect to your cloud's container repository.
+```
+docker login iad.ocir.io
+<TENANCY>/<USERNAME>
+<TOKEN>
+
+brew install fn
+fn version
+fn create context ocicontext1 --provider oracle
+fn use context ocicontext1
+fn update context oracle.profile functionsUser
+fn update context oracle.compartment-id ocid1.tenancy.oc1..aaabkakkackakdnum3fd24qioebxwe3xuqdealrsa2g42gs4ja
+fn update context api-url https://functions.us-ashburn-1.oci.oraclecloud.com
+fn update context registry iad.ocir.io/<TENANCYNAME>/myrepo
+
+fn init --runtime java helloworld-func
+cd helloworld-func
+fn -v deploy --app hellothere
+
+fn invoke hellothere helloworld-func
+```
 ## Extending functions
 
 [Deploying your hello-world function to API Gateway](https://blogs.oracle.com/developers/creating-your-first-api-gateway-in-the-oracle-cloud)
