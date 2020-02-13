@@ -93,8 +93,6 @@ fn invoke hellothere helloworld-func
 
 [Querying an ATP database with Functions](https://blogs.oracle.com/developers/oracle-functions-connecting-to-an-atp-database-revisited)
 
-Continue to Lab 400 to see this two workshops merged.
-
 ### More information
 
 [Add functions user to the oci config file](https://docs.cloud.oracle.com/en-us/iaas/Content/Functions/Tasks/functionssetupapikey.htm)
@@ -103,7 +101,7 @@ Continue to Lab 400 to see this two workshops merged.
 
 [Functions with API Gateway](https://docs.cloud.oracle.com/en-us/iaas/Content/APIGateway/Tasks/apigatewayusingfunctionsbackend.htm)
 
-[Managing with terraform!](https://blogs.oracle.com/cloud-infrastructure/using-terraform-to-manage-your-apis)
+[Managing APIs with terraform!](https://blogs.oracle.com/cloud-infrastructure/using-terraform-to-manage-your-apis)
 
 [Deploying a flask api on API Gateway](https://github.com/stretchcloud/OCI-APIGW-Demo-API)
 
