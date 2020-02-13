@@ -22,7 +22,7 @@ Event based serverless architecture is a popular paradigm in today's tech landsc
 
 [Lab 303: Performing an API call with a function via API Gateway](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab303.md)
 
-[Lab 304: Calling an Apiary endpoint](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab304.md) (alternative to 303)
+[Lab 304: Calling an Apiary endpoint](https://github.com/GaryHostt/OCI_DevOps/blob/master/304.md) (alternative to 303)
 
 [Lab 400: Getting started with Oracke Kubernetes Engine](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab400.md)
 
