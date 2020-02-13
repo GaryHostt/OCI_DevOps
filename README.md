@@ -9,7 +9,7 @@ This wokshop will show you how to use various OCI developer services such as OCI
 
 Event based serverless architecture is a popular paradigm in today's tech landscape and this workshop will show you how to use OCI with it.
 
-## Outline:
+## Outline
 [Lab 100: Create Email Notification Topic, Subscription, and Event Rule](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab100.md)
 
 [Lab 200: Working with Streaming](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab200.md)
