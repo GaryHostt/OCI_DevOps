@@ -10,6 +10,8 @@
 
 You may consider the above lab as the best place to start using functions while the rest of this page is a repo for supplemental knowledge. In [lab 302](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab302.md), we will build on the work from that lab. The bottom of this page in this repo has consolidated the terminal commands you will use in the above lab. 
 
+[But before proceeding to 302, click here to go to lab 301](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab300a.md)
+
 [Secondary lab](https://www.oracle.com/webfolder/technetwork/tutorials/infographics/oci_faas_gettingstarted_quickview/functions_quickview_top/functions_quickview/index_text.html)
 
 ## Useful resources
