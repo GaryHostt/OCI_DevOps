@@ -51,7 +51,7 @@ Add your created user to the functions group.
 ![](300screenshots/7.png)
 ![](300screenshots/5.png)
 
-Create a policy for your group to enable function access. Note, you should probably be more secure than enabling tenancy wide access, but for speed - there is this option.
+Create a policy for your group to enable function access. **Note, you should probably be more secure than enabling tenancy wide access, but for speed - there is this option.**
 
 ![](300screenshots/9.png)
 
