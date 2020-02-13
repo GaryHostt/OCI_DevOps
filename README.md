@@ -22,7 +22,9 @@ Event based serverless architecture is a popular paradigm in today's tech landsc
 
 [Lab 303: Performing an API call with a function via API Gateway](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab303.md)
 
-Coming soon: Ansible on OCI, Oracle Kubernetes Engine, and more!
+[Lab 400: Getting started with Oracke Kubernetes Engine](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab400.md)
+
+Coming soon: Ansible on OCI, CI/CD, and more!
 
 # Pre-requisites
 
