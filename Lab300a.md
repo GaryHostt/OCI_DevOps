@@ -51,7 +51,8 @@ Add your created user to the functions group.
 ![](300screenshots/7.png)
 ![](300screenshots/5.png)
 
-Create a policy for your group to enable function access. 
+Create a policy for your group to enable function access. Note, you should probably be more secure than enabling tenancy wide access, but for speed - there is this option.
+
 ![](300screenshots/9.png)
 
 These are the policies you will need, click here to read more about [IAM policies for functions.](https://docs.cloud.oracle.com/en-us/iaas/Content/Functions/Tasks/functionscreatingpolicies.htm#ocir-policy)
