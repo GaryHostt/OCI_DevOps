@@ -1,5 +1,9 @@
 # Lab 300: Serverless Functions
 
+
+![](screenshots/Strip-Severless-650-finalenglishV2.jpg)
+[Source](http://www.commitstrip.com/en/2017/04/26/servers-there-are-no-servers-here/)
+
 ## Recommended Resources to start with before this lab
 
 [Getting started with functions lab - MANDATORY](https://www.oracle.com/webfolder/technetwork/tutorials/infographics/oci_faas_gettingstarted_quickview/functions_quickview_top/functions_quickview/index.html#localdevenv)
