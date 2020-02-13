@@ -4,25 +4,27 @@
 
 [Getting started with functions lab - MANDATORY](https://www.oracle.com/webfolder/technetwork/tutorials/infographics/oci_faas_gettingstarted_quickview/functions_quickview_top/functions_quickview/index.html#localdevenv)
 
-You may consider the above lab as the single best place to start using functions while the rest of this page is a repo for supplemental knowledge. In [lab 302](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab302.md), we will build on the work from that lab. The bottom of this page in this repo has consolidated the terminal commands you will use in the above lab. 
+You may consider the above lab as the best place to start using functions while the rest of this page is a repo for supplemental knowledge. In [lab 302](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab302.md), we will build on the work from that lab. The bottom of this page in this repo has consolidated the terminal commands you will use in the above lab. 
 
 [Secondary lab](https://www.oracle.com/webfolder/technetwork/tutorials/infographics/oci_faas_gettingstarted_quickview/functions_quickview_top/functions_quickview/index_text.html)
 
 ## Useful resources for this lab
 
-[3 letter region codes](https://docs.cloud.oracle.com/en-us/iaas/Content/General/Concepts/regions.htm)
+[fn project tuturials](https://fnproject.io/tutorials/)
 
-[Chapter 10 of this manual is useful for the registry](https://docs.cloud.oracle.com/en-us/iaas/pdf/ug/OCI_User_Guide.pdf)
-
-[Preparing your registry](https://docs.cloud.oracle.com/en-us/iaas/Content/Registry/Concepts/registryprerequisites.htm#regional-availability)
+[fn project documentation](https://github.com/fnproject/docs)
 
 [Functions API](https://docs.cloud.oracle.com/en-us/iaas/api/#/en/functions/20181201/)
 
 [Functions CLI](https://docs.cloud.oracle.com/en-us/iaas/Content/Functions/Tasks/functionsusingwithfncli.htm)
 
-[fn project tuturials](https://fnproject.io/tutorials/)
+[CI/CD for Functions](https://blogs.oracle.com/developers/cicd-automation-for-project-fn-with-oracle-faas-and-developer-cloud-service)
 
-[fn project documentation](https://github.com/fnproject/docs)
+[3 letter OCI region codes](https://docs.cloud.oracle.com/en-us/iaas/Content/General/Concepts/regions.htm) (useful for terminal commands in first lab)
+
+[Chapter 10 of this manual is useful for the registry](https://docs.cloud.oracle.com/en-us/iaas/pdf/ug/OCI_User_Guide.pdf)
+
+[Preparing your container registry](https://docs.cloud.oracle.com/en-us/iaas/Content/Registry/Concepts/registryprerequisites.htm#regional-availability)
 
 [Dockerizing your Python Application](https://runnable.com/docker/python/dockerize-your-python-application)
 
