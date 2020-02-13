@@ -12,7 +12,7 @@ You may consider the above lab as the best place to start using functions while 
 
 [Secondary lab](https://www.oracle.com/webfolder/technetwork/tutorials/infographics/oci_faas_gettingstarted_quickview/functions_quickview_top/functions_quickview/index_text.html)
 
-## Useful resources for this lab
+## Useful resources
 
 [fn project tuturials](https://fnproject.io/tutorials/)
 
