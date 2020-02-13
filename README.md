@@ -1,4 +1,4 @@
-# Workshop: DevOps with OCI - Events, Functions, Notifications, and Streaming
+# Workshop: DevOps with OCI - Functions & API Gateway with Events, Notifications, Streaming, and more
 
 ![](screenshots/99.png)
 
