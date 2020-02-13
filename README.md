@@ -1,10 +1,11 @@
 # Workshop: DevOps with OCI - Events, Functions, Notifications, and Streaming
 
-![](screenshots/1.jpg)
+![](screenshots/1.png)
+
 
 ## Introduction
 
-This wokshop will show you how to use various OCI developer services such as OCI Events, Oracle's serverless functions, notifications, and streaming.
+This wokshop will show you how to use various OCI developer services such as OCI Events, Oracle's serverless functions, notifications, and streaming. You will be able to create the above architecture upon completion & more.
 
 Event based serverless architecture is a popular paradigm in today's tech landscape and this workshop will show you how to use OCI with it.
 
@@ -20,11 +21,6 @@ Event based serverless architecture is a popular paradigm in today's tech landsc
 [How to create a ssh key](https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/javaservice/JCS/JCS_SSH/create_sshkey.html)
 
 [Oracle Functions](https://www.youtube.com/watch?v=ZJKviWdo-Ec)
-
-
-![](screenshots/1.png)
-
-This is the architecture you will have created after completing this workshop.
 
 ## Outline:
 [Lab 100: Create Email Notification Topic, Subscription, and Event Rule](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab100.md)
