@@ -1,6 +1,6 @@
 # Workshop: DevOps with OCI - Events, Functions, Notifications, and Streaming
 
-![](screenshots/1.png)
+![](screenshots/99.png)
 
 
 ## Introduction
