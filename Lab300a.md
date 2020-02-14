@@ -1,7 +1,7 @@
 # Lab 300: Serverless Functions
 
 <p align="center">
-  <img src="https://github.com/GaryHostt/OCI_DevOps/blob/master/screenshots/Strip-Severless-650-finalenglishV2.jpgraw=true" alt="Apiary"/>
+  <img src="https://github.com/GaryHostt/OCI_DevOps/blob/master/screenshots/Strip-Severless-650-finalenglishV2.jpg?raw=true" alt="comic"/>
 </p>
 
 [Source](http://www.commitstrip.com/en/2017/04/26/servers-there-are-no-servers-here/)
