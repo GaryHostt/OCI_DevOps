@@ -1,7 +1,9 @@
 # Lab 300: Serverless Functions
 
+<p align="center">
+  <img src="https://github.com/GaryHostt/OCI_DevOps/blob/master/screenshots/Strip-Severless-650-finalenglishV2.jpgraw=true" alt="Apiary"/>
+</p>
 
-![](screenshots/Strip-Severless-650-finalenglishV2.jpg)
 [Source](http://www.commitstrip.com/en/2017/04/26/servers-there-are-no-servers-here/)
 
 ## Recommended Resources to start with before this lab
