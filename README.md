@@ -24,7 +24,7 @@ Event based serverless architecture is a popular paradigm in today's tech landsc
 
 [Lab 304: Calling an Apiary endpoint](https://github.com/GaryHostt/OCI_DevOps/blob/master/304.md) (alternative to 303)
 
-[Lab 400: Getting started with Oracke Kubernetes Engine](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab400.md)
+[Lab 400: Getting started with Kubernetes on OCI](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab400.md)
 
 Coming soon: Ansible on OCI, CI/CD, and more!
 
