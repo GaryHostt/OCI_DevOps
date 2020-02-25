@@ -39,6 +39,8 @@ Coming soon: Ansible on OCI, CI/CD, and more!
 ## Useful links:
 [About OCI Events](https://docs.cloud.oracle.com/en-us/iaas/Content/Events/Concepts/eventsoverview.htm)
 
+[Getting started with the OCI CLI](https://oracle.github.io/learning-library/oci-library/DevOps/OCI_CLI/OCI_CLI_HOL.html)
+
 [Getting started with Events](https://docs.cloud.oracle.com/en-us/iaas/Content/Events/Concepts/eventsgetstarted.htm)
 
 [Notifications](https://docs.cloud.oracle.com/en-us/iaas/Content/Notification/Concepts/notificationoverview.htm)
