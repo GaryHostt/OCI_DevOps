@@ -106,6 +106,10 @@ fn invoke hellothere helloworld-func
 
 [Deploying a flask api on API Gateway](https://github.com/stretchcloud/OCI-APIGW-Demo-API)
 
+[Troubleshooting your functions](https://docs.cloud.oracle.com/en-us/iaas/Content/Functions/Tasks/functionstroubleshooting.htm)
+
+[Useful tips for fdk development](https://medium.com/fnproject/useful-tips-for-a-new-fdk-development-78f931477c49)
+
 
 
 
