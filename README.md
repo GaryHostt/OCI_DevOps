@@ -51,6 +51,8 @@ Coming soon: Ansible on OCI, CI/CD, and more!
 
 [Oracle Functions](https://www.youtube.com/watch?v=ZJKviWdo-Ec)
 
+[OCI Architecture Center](https://blogs.oracle.com/cloud-infrastructure/announcing-the-oracle-cloud-infrastructure-architecture-center)
+
 
 
 
