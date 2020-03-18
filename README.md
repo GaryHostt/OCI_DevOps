@@ -26,8 +26,7 @@ Event based serverless architecture is a popular paradigm in today's tech landsc
 
 [Lab 400: Getting started with Kubernetes on OCI](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab400.md)
 
-[My News gathering app running on OCI](https://github.com/GaryHostt/OCI_Native_NewsApp)
-  Featuring Flask API dockerization, Data Catalog
+[My News gathering app running on OCI](https://github.com/GaryHostt/OCI_Native_NewsApp) featuring Flask API dockerization and Data Catalog
 
 Coming soon: Ansible on OCI, CI/CD, and more!
 
