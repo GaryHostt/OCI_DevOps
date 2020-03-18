@@ -1,7 +1,6 @@
-# Workshop: DevOps on OCI - Functions & API Gateway with Events, Notifications, Streaming, and more
+# Workshop: DevOps on OCI - Functions & API Gateway with Events, Notifications, Streaming, and more!
 
 ![](screenshots/99.png)
-
 
 ## Introduction
 
@@ -26,7 +25,7 @@ Event based serverless architecture is a popular paradigm in today's tech landsc
 
 [Lab 400: Getting started with Kubernetes on OCI](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab400.md)
 
-[Lab 500: My News gathering app running on OCI](https://github.com/GaryHostt/OCI_Native_NewsApp) featuring Flask API dockerization, Health checks, OCI CLI, and Data Catalog
+[Lab 500: My News gathering app running on OCI](https://github.com/GaryHostt/OCI_Native_NewsApp) featuring Flask API dockerization, Health checks, Alarms, OCI CLI, and Data Catalog
 
 Coming soon: Ansible on OCI, CI/CD, and more!
 
