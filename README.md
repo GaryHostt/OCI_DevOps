@@ -39,6 +39,12 @@ Coming soon: Ansible on OCI, CI/CD, and more!
 
 ## Useful links:
 
+[Oracle learning library on Github](https://github.com/oracle/learning-library) - learn how to do *everything* on OCI
+
+[Oracle Integration Cloud](https://garyhostt.github.io/Oracle_Integration/)
+
+[Oracle Data Integrator](https://github.com/GaryHostt/Oracle_Data_Integrator)
+
 [OCI Events Documenation](https://docs.cloud.oracle.com/en-us/iaas/Content/Events/Concepts/eventsoverview.htm)
 
 [OCI Notifications Documenation](https://docs.cloud.oracle.com/en-us/iaas/Content/Notification/Concepts/notificationoverview.htm)
@@ -52,12 +58,6 @@ Coming soon: Ansible on OCI, CI/CD, and more!
 [How to create a ssh key for OCI on Mac & Windows](https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/javaservice/JCS/JCS_SSH/create_sshkey.html)
 
 [OCI Architecture Center](https://blogs.oracle.com/cloud-infrastructure/announcing-the-oracle-cloud-infrastructure-architecture-center)
-
-## Misc:
-
-[Oracle Integration Cloud](https://garyhostt.github.io/Oracle_Integration/)
-
-[Oracle Data Integrator](https://github.com/GaryHostt/Oracle_Data_Integrator)
 
 [Build an APEX app in 30 minutes!](https://github.com/fatih-keles/30-min-workshops)
 
