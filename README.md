@@ -38,6 +38,10 @@ Coming soon: Ansible on OCI, CI/CD, and more!
 [**Click here to begin with Lab 100**](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab100.md)
 
 ## Useful links:
+[Oracle Integration Cloud](https://garyhostt.github.io/Oracle_Integration/)
+
+[Oracle Data Integrator](https://github.com/GaryHostt/Oracle_Data_Integrator)
+
 [About OCI Events](https://docs.cloud.oracle.com/en-us/iaas/Content/Events/Concepts/eventsoverview.htm)
 
 [Getting started with the OCI CLI](https://oracle.github.io/learning-library/oci-library/DevOps/OCI_CLI/OCI_CLI_HOL.html)
