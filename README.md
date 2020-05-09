@@ -38,25 +38,28 @@ Coming soon: Ansible on OCI, CI/CD, and more!
 [**Click here to begin with Lab 100**](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab100.md)
 
 ## Useful links:
+
+[OCI Events Documenation](https://docs.cloud.oracle.com/en-us/iaas/Content/Events/Concepts/eventsoverview.htm)
+
+[OCI Notifications Documenation](https://docs.cloud.oracle.com/en-us/iaas/Content/Notification/Concepts/notificationoverview.htm)
+
+[Video about Oracle Functions](https://www.youtube.com/watch?v=ZJKviWdo-Ec)
+
+[Getting started with the OCI CLI](https://oracle.github.io/learning-library/oci-library/DevOps/OCI_CLI/OCI_CLI_HOL.html)
+
+[API Gateway information](https://www.oracle.com/cloud/cloud-native/api-gateway/)
+
+[How to create a ssh key for OCI on Mac & Windows](https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/javaservice/JCS/JCS_SSH/create_sshkey.html)
+
+[OCI Architecture Center](https://blogs.oracle.com/cloud-infrastructure/announcing-the-oracle-cloud-infrastructure-architecture-center)
+
+## Misc:
+
 [Oracle Integration Cloud](https://garyhostt.github.io/Oracle_Integration/)
 
 [Oracle Data Integrator](https://github.com/GaryHostt/Oracle_Data_Integrator)
 
-[About OCI Events](https://docs.cloud.oracle.com/en-us/iaas/Content/Events/Concepts/eventsoverview.htm)
-
-[Getting started with the OCI CLI](https://oracle.github.io/learning-library/oci-library/DevOps/OCI_CLI/OCI_CLI_HOL.html)
-
-[Getting started with Events](https://docs.cloud.oracle.com/en-us/iaas/Content/Events/Concepts/eventsgetstarted.htm)
-
-[Notifications](https://docs.cloud.oracle.com/en-us/iaas/Content/Notification/Concepts/notificationoverview.htm)
-
-[API Gateway](https://www.oracle.com/cloud/cloud-native/api-gateway/)
-
-[How to create a ssh key](https://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/javaservice/JCS/JCS_SSH/create_sshkey.html)
-
-[Oracle Functions](https://www.youtube.com/watch?v=ZJKviWdo-Ec)
-
-[OCI Architecture Center](https://blogs.oracle.com/cloud-infrastructure/announcing-the-oracle-cloud-infrastructure-architecture-center)
+[Build an APEX app in 30 minutes!](https://github.com/fatih-keles/30-min-workshops)
 
 
 
