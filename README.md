@@ -8,6 +8,8 @@ This wokshop will show you how to use various OCI developer services such as OCI
 
 Event based serverless architecture is a popular paradigm in today's tech landscape and this workshop will show you how to use OCI with it.
 
+All being equal, [this workshop](https://code-innovate.github.io/spw-mono-to-micro/lab-guides/slow-track/?lab=workshop-introduction) goes much more in depth with the subjects below - consult it as well to learn DevOps on OCI!
+
 ## Outline
 [Lab 100: Create Email Notification Topic, Subscription, and Event Rule](https://github.com/GaryHostt/OCI_DevOps/blob/master/Lab100.md)
 
