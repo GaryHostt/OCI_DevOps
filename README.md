@@ -4,7 +4,7 @@
 
 ## Introduction
 
-This wokshop will show you how to use various OCI developer services such as OCI Events, Oracle's serverless functions, notifications, and streaming. You will be able to create the above architecture upon completion & more. It is authored by [Alex MacDonald(intro.alexmacdonald.solutions).
+This wokshop will show you how to use various OCI developer services such as OCI Events, Oracle's serverless functions, notifications, and streaming. You will be able to create the above architecture upon completion & more. It is authored by [Alex MacDonald](intro.alexmacdonald.solutions).
 
 Event based serverless architecture is a popular paradigm in today's tech landscape and this workshop will show you how to use OCI with it.
 
